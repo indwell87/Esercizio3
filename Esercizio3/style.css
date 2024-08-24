@@ -1,0 +1,43 @@
+a:hover {
+    background-color: coral;
+    color: rgb(0, 128, 66);
+    }
+
+h4 { 
+    font-family: "Baskervville SC", serif; 
+    background-color: #6DB1BF; 
+    height: 25px; width: 400px ; 
+    text-align: center;
+    }
+
+p { 
+    font-family: "Edu VIC WA NT Beginner", cursive; 
+    color: #F39A9D; 
+}
+
+.testo1 {
+    background-image: url(./Media/gattino1.jpeg);
+    min-height: 120px; width: 250px; 
+    background-size: contain;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    color: rgb(0, 0, 0); 
+    text-align: center;
+    }
+
+.testo2 {
+    background-image: url(./Media/gattino2.jpeg); 
+    min-height: 120px; width: 220px; 
+    background-size: contain;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    color: rgb(0, 0, 0); 
+    text-align: center;
+    }
+
+.testo3 {
+    background-image: url(./Media/gattino3.jpeg);     
+    min-height: 120px; width: 210px; 
+    background-size: contain;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    color: rgb(0, 0, 0); 
+    text-align: center;
+    }
